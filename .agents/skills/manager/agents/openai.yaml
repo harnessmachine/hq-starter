@@ -1,0 +1,5 @@
+interface:
+  display_name: "Manager"
+  short_description: "Ведёт задачи штаба и сам записывает итог сессии"
+policy:
+  allow_implicit_invocation: true
